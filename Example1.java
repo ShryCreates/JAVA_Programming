@@ -6,7 +6,7 @@ class calculator{
 class Example1 {
     public static void main(String args[]){
         calculator c=new calculator();
-        c.i=20;
+        c.i=10;
         System.out.println("Square root of "+c.i+" is "+c.x);
     }
 }
